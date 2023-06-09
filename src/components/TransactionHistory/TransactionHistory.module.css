@@ -2,12 +2,14 @@
     background-color: rgb(242, 241, 241);
 }
 
+
 .transactionRowTr{
     text-align: center;
     font-size: 15px;
     width: 250px;
     height: 35px;
 }
+
 
 .transactionRowTh{
     text-align: center;
